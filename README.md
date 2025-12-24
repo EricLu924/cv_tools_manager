@@ -1,4 +1,4 @@
-# CV_tools_manager
+# Computer Vision Data Process Tools Manager
 【 Basic Python Tools for CV (Manager Edition) 】
 
 This repository contains a unified **Python utility suite** designed for Computer Vision (CV) and Machine Learning (ML) tasks. 
